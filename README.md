@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rehana sulthana
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning web application security.
 - 💞️ I’m looking to collaborate on web application security.
 - 📫 How to reach me ...
